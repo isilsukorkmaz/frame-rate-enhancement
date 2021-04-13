@@ -20,6 +20,7 @@ Program is a Python program and can be compiled at any Python development enviro
 ## Preview of Program
 Original
 ![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/original.gif "Original")
+
 Enhanced
 ![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/enhanced.gif "Enhanced")
 
