@@ -19,9 +19,11 @@ Program is a Python program and can be compiled at any Python development enviro
 
 ## Preview of Program
 Original
+
 ![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/original.gif "Original")
 
 Enhanced
+
 ![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/enhanced.gif "Enhanced")
 
 Results and generated frames can be found at [Drive link](https://drive.google.com/drive/u/0/folders/1J_XbfNyOSfYFTetqcm-HAedSk4tgoZ7V).
