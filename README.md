@@ -19,17 +19,6 @@ Program is a Python program and can be compiled at any Python development enviro
 
 ## Preview of Program
 
-The two original frames in the input and the intermediate frame produced between them by program is given below.
-![Frame 1](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/frame183.bmp)
+![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/original.gif "Original")![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/enhanced.gif "Enhanced")
 
-Frame 1
-
-![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/frame185.bmp)
-
-Frame 2
-
-![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/frame184.bmp)
-
-Intermediate frame produced by program between two frames.
-
-Example files can be found at [input file](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/Paris%20-%208132.mp4) and [output file](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/Paris%20-%208132_enhanced_DEMO.mp4).
+Results and generated frames can be found at [Drive link](https://drive.google.com/drive/u/0/folders/1J_XbfNyOSfYFTetqcm-HAedSk4tgoZ7V).
