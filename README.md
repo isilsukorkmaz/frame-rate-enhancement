@@ -18,7 +18,9 @@ the previous frame could not be predicted by the frame interpolating function. T
 Program is a Python program and can be compiled at any Python development environment. The "Paris - 8132.mp4" file must be in the same directory with the program in order to work with example input file and see the results. The output of the program will be saved as "Paris - 8132_enhanced_DEMO.mp4" under the same directory with input file similar with the video in the repository.Different input videos can be used by changing the video name in the related code segment.
 
 ## Preview of Program
-
-![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/original.gif "Original")![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/enhanced.gif "Enhanced")
+Original
+![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/original.gif "Original")
+Enhanced
+![alt text](https://github.com/isilsukorkmaz/frame-rate-enhancement/blob/main/enhanced.gif "Enhanced")
 
 Results and generated frames can be found at [Drive link](https://drive.google.com/drive/u/0/folders/1J_XbfNyOSfYFTetqcm-HAedSk4tgoZ7V).
